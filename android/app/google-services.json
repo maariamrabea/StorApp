@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40189270169",
+    "project_id": "mariam-6e152",
+    "storage_bucket": "mariam-6e152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40189270169:android:54116130a201c468c84008",
+        "android_client_info": {
+          "package_name": "com.example.stor_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdmPMh-p5b-wdrKleYgIbN0CtMpJ_O59Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
